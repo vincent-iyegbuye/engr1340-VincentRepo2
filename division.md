@@ -1,0 +1,1 @@
+Division is splitting a number into equal parts or figuring out how many times one number fits inside another. For example, 12 ÷ 3 = 4 because you can split 12 into 3 equal groups of 4, or because 3 fits into 12 four times.
